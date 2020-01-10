@@ -1,0 +1,71 @@
+body{
+	font-family: verdana;
+	background-color: cyan;
+	background-image: url(cs.png );
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+h1 {
+	font-family: Trebuchet MS;
+	color: #4310EB;
+	background-color: cyan;
+	text-align: center;
+	font-size: 24pt;
+}
+
+p {
+	font-family: verdana;
+    line-height: 1.5em;
+	text-indent: 30px;
+	margin-bottom: 40px;
+	
+}
+
+h3 {
+	font-family: Verdana;
+	color: #4310EB;
+	background-color: cyan;
+	text-align: center;
+	font-size: 16pt;
+}
+
+div{
+	margin-top: 100px;
+	background-color: rgba(0,255,223, 0.2);
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+	border: 5px white;
+	box-shadow: 10px 10px 20px black;
+
+
+}
+a:center {
+  margin-left: auto;
+  margin-right: auto;
+}
+a:link {
+}
+
+a:visited{
+}
+
+a:hover{
+}
+
+a:active{
+}
+
+img{
+border: 10px solid white;
+box-shadow: 10px 10px 20px black;
+margin-right: auto;
+margin-left: auto;
+}
+
+
+
+
